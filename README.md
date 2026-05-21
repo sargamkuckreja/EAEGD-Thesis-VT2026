@@ -47,7 +47,7 @@ does-planning-quality-matter/
 
 **IEG Project Performance Ratings Database**
 World Bank Independent Evaluation Group outcome ratings for all completed Bank-financed operations. Accessed March 2026 via the World Bank Data Catalog.
-Available at: https://datacatalog.worldbank.org/search/dataset/0037798
+Available at: https://financesone.worldbank.org/ieg-world-bank-project-performance-ratings/DS00053 
 
 **Project Appraisal Documents and Staff Appraisal Reports**
 Planning documents for all World Bank Investment Project Financing operations. Publicly available via the World Bank Documents and Reports portal.
